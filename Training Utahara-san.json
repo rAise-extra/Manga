@@ -4,5 +4,38 @@
   "artist": "Hirune",
   "author": "",
   "cover": "https://ksk-h7glm2.xyz/t/6333/1/896.webp",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1682933162",
+      "groups": {
+        "Training Utahara-san": "/proxy/api/imgur/chapter/48JnuSe"
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1682934006",
+      "groups": {
+        "Training Utahara-san": "/proxy/api/imgur/chapter/OR8V43L"
+      }
+    },
+    "3": {
+      "title": "3",
+      "volume": "",
+      "last_updated": "1682934077",
+      "groups": {
+        "Training Utahara-san": "/proxy/api/imgur/chapter/wXz97lp"
+      }
+    },
+    "4": {
+      "title": "4",
+      "volume": "",
+      "last_updated": "1682934268",
+      "groups": {
+        "Training Utahara-san": "/proxy/api/imgur/chapter/RDcKf25"
+      }
+    }
+  }
 }
